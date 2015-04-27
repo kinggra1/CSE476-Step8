@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/item1230" android:title="@string/eb1230"></item>
+    <item android:id="@+id/itemSparty" android:title="@string/sparty"></item>
+    <item android:id="@+id/itemHome" android:title="@string/home"></item>
+    <item android:id="@+id/itemTestAddress" android:title="@string/test_address"></item>
+
+</menu>
